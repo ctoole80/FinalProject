@@ -8,4 +8,4 @@ A poster, made in PowerPoint, is also provided to outline the present VEP resear
 To select a subject for localization, set the teeg_id variable to the subject id of "ct" or "ps"
 Suggested localization scales are provided in comments for each subject in the last 2 cells of the ipython notebook.
 
-Required head model and electrode coregistration files are included as well.
+Required head model (MNE-sample-data/subjects/sample) and electrode coregistration file (MNE-sample-data/MEG/sample/sample_audvis_raw-trans.fif) are included as well.
